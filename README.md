@@ -1,7 +1,7 @@
 About:
-This is a programmed keypad in Python that sends information using an email address
+This Is A Key Logger Programmed In Python That Send The Information Using An Email Address
 Tutorial:
-First of all, you need to run Start.py and need that information.
-Then run KLC.py and it will provide you with a KeyLogger file called Key_Logger.exe
-Then give Key_Logger.exe to your victim
-And wait, KeyLogger gives you information via email.
+First Of All You Should Run Start.py And Give Information That It Require.
+Then Run KLC.py It Will Give You A KeyLogger File Named Key_Logger.exe
+Then Give Key_Logger.exe To Your Victim
+And Wait , KeyLogger Will Give You The Information Via Email.
