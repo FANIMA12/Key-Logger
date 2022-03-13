@@ -10,3 +10,6 @@ Then Run KLC.py , It Will Give You A KeyLogger File Named Key_Logger.exe
 
 Then Give Key_Logger.exe To Your Victim
 And Wait , KeyLogger Will Give You The Information Via Email.
+
+You Should Go To This Address And Unlock Captcha To Give Application Access Without Need To Pass Captcha
+https://accounts.google.com/b/0/DisplayUnlockCaptcha
